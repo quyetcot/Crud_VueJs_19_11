@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 5",
+      "price": "200",
+      "description": "Mô tả 1",
+      "id": "M-dNk7ILkwRPYyVRh4um_"
+    },
+    {
+      "name": "Sản phẩm 2",
+      "price": "200",
+      "description": "Mô tả 2",
+      "id": "1cSEFZ8Jdx54U2v95VwyW"
+    },
+    {
+      "name": "Sản phẩm 3",
+      "price": "400",
+      "description": "Mô tả 3",
+      "id": "WrERzc4fO_I_AixwjY7n3"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
